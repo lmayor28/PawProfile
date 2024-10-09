@@ -51,5 +51,3 @@ PawProfile es una innovadora aplicación móvil que permite a los dueños de mas
 Monitorea el rendimiento y los comentarios de los usuarios. Realiza actualizaciones y mejoras continuas según sea necesario.
 
 ---
-
-¡Espero que esto te ayude a darle un aspecto más profesional a tu README! ¿Algo más que necesites?
